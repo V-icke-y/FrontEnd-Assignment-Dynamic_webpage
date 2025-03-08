@@ -7,7 +7,7 @@ body {
 .header-container {
     width: 1440px;
     height: 90px;
-    margin: 0 auto; /* Center the container */
+    margin: 0 auto; 
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -16,10 +16,9 @@ body {
 }
 
 .section1 {
-    width: 100%; /* Set to 100% or the same width as header */
-    max-width: 1200px; /* Optional: Set a max width */
-
-    padding: 20px; /* Add some padding */
+    width: 100%; 
+    max-width: 1200px; 
+    padding: 20px; 
     
 
     
@@ -27,18 +26,18 @@ body {
 
 
 .submit-task {
-    background-color:#0029FF ; /* Button background color */
-    color: white;               /* Button text color */
-    border: none;               /* Remove border */
-    padding: 10px 20px;        /* Padding for the button */
-    border-radius: 10px;        /* Rounded corners */
-    cursor: pointer;            /* Pointer cursor on hover */
-    font-size: 16px;            /* Font size */
+    background-color:#0029FF ; 
+    color: white;               
+    border: none;              
+    padding: 10px 20px;        
+    border-radius: 10px;        
+    cursor: pointer;          
+    font-size: 16px;         
    
 }
 
 .submit-task:hover {
-    background-color: #007bff;  /* Darker background on hover */
+    background-color: #007bff;  
 }
 
 .logo {
@@ -47,11 +46,11 @@ body {
 }
 
 .section2 {
-    width: 100%; /* Set to 100% or the same width as header */
-    max-width: 1200px; /* Optional: Set a max width */
+    width: 100%; 
+    max-width: 1200px; 
 
-    padding: 0 0 0 20px; /* Add some padding */
-    background-color: #ffffff; /* Background color for the section */
+    padding: 0 0 0 20px; 
+    background-color: #ffffff; 
 }
 
 .img1 {
